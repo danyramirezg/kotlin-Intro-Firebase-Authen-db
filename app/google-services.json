@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203731380306",
+    "project_id": "mykotlinproject-9c816",
+    "storage_bucket": "mykotlinproject-9c816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203731380306:android:252c8c31388ae7bb7f178b",
+        "android_client_info": {
+          "package_name": "com.dany.introfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203731380306-n60m3s58q4ejdpuutcmam31uku4cpjum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8TtN426-TLA0c6SCQfPN7pLECXNE1zaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203731380306-n60m3s58q4ejdpuutcmam31uku4cpjum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
