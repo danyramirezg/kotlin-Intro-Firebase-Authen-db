@@ -2,7 +2,7 @@
 
 Firebase is a platform developed by Google for creating mobile and web applications.
 
-In this repo you will learn how to connect to the Fiebase-dababase and how to authenticate with email and password
+In this repo you will learn how to connect to the Firebase-dababase and how to authenticate with email and password
 
 ## Code Source:
 * [The view - activity_main.xml](https://github.com/danyramirezg/kotlin-Intro-Firebase-Authen-db/blob/main/app/src/main/res/layout/activity_main.xml)
