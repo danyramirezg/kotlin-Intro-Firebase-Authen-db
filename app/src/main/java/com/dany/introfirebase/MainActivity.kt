@@ -51,8 +51,8 @@ class MainActivity : AppCompatActivity() {
                             .show()
                     } else {
                         // Not successful
-                        Log.d("===>Unsuccessful", "The signed in is unsuccessful")
-                        Toast.makeText(this, "The signed in is unsuccessful", Toast.LENGTH_LONG)
+                        Log.d("===>Unsuccessful", "${task.exception}")
+                        Toast.makeText(this, "${task.exception}", Toast.LENGTH_LONG)
                             .show()
                     }
                 }
